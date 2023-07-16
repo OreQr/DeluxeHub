@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>fun.lewisdev</groupId>
-    <artifactId>DeluxeHub</artifactId>
+    <artifactId>DeluxeHubOreQr</artifactId>
     <version>3.5.4</version>
     <packaging>jar</packaging>
 
